@@ -1,0 +1,33 @@
+
+/*-------------------------------------------------------------------body and header/home*/
+
+body{
+   font-family: 'Noto Serif JP', sans-serif;
+}
+.navbar{
+    min-height: 50px !important;
+    background-color: #D3D3D3;
+    width: auto;
+}
+#home {
+    background-image: url(../images/pot5.jpg);
+    width:100%;
+    height:100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative; 
+}
+
+.my-details{
+    padding-top: 120px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.name{
+    
+    font-size: 40px;
+    text-shadow: #808080;
+}
